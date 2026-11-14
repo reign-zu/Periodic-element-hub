@@ -5,7 +5,7 @@
 body{
   font:clamp(16px,.35vw + 14.5px,20px)/1.5 "Segoe UI",system-ui,Roboto,Arial,sans-serif;
   color:var(--ink);
-  background:linear-gradient(180deg,#fbf6e9,#f3e9d2);
+  background:linear-gradient(180deg,#af9f73,#6e654d);
   min-height:100vh;
   max-width:1200px;
   margin:0 auto;
